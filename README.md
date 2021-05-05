@@ -1,4 +1,4 @@
-# thefirstavenger
+# TEAM INFOSEC
 This project illustrates a Library Management System, cretaed using python and Tkinter. As part of CSCI 6622 - Database Systems class, at University of New Haven.
 
 Following our the steps that you need to follow to make this project work on your system after cloning/Downloading.
