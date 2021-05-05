@@ -15,18 +15,21 @@ The list of python library you need to install are as follows:
       5) from PIL import ImageTK, Image (Python Pillow library)
 
 
-=====================================================================================NOTICE========================================================================================
+NOTICE
+
 Team Infosec is not accountable for any malicious use of this project by any entity. 
 
 
 
 
-====================================================================================LICENSE========================================================================================
+LICENSE
+
 This project is licensed by Team Infosec under University of New Haven, CSCI - 6622 Database Systems class. 
 
 
 
-===================================================================================Contact us======================================================================================
+CONTACT US
+
 To use this project, or if you wish to commit any changes please contact members of team Infosec 
 Name and Email :  
                   Anuj Rane - arane1@unh.newhaven.edu
