@@ -1,2 +1,2 @@
 # thefirstavenger
-This project illustrates how to connect a MySql database with a GUI developed using python's library Tkinter.
+This project illustrates a Library Management System, cretaed using python and Tkinter. As part of CSCI 6622 - Database Systems.
