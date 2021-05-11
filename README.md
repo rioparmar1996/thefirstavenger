@@ -15,6 +15,11 @@ The list of python library you need to install are as follows:
       5) from PIL import ImageTK, Image (Python Pillow library)
 
 
+The final report of the project is accessable through this link : https://github.com/rioparmar1996/thefirstavenger/blob/main/DB_Final_Project_Report_Infosec.pdf
+
+The final powerpoint presentation is accessable through this link : https://github.com/rioparmar1996/thefirstavenger/blob/main/Database%20(2).pdf
+
+
 NOTICE
 
 Team Infosec is not accountable for any malicious use of this project by any entity. 
